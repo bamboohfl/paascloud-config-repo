@@ -40,8 +40,8 @@ spring:
         login-password: admin
   mail:
     host: smtp.163.com
-    username: paascloudTest@163.com
-    password: a123456
+    username: hefanglin@163.com
+    password: hfl0614#
     port: 465
     protocol: smtp
     test-connection: false
@@ -124,8 +124,8 @@ paascloud:
       domain: dysmsapi.aliyuncs.com
   qiniu:
     key:
-      accessKey: 'your qiniu accessKey'
-      secretKey: 'your qiniu secretKey'
+      accessKey: 'hefanglin@163.com'
+      secretKey: 'Hfl0614#'
     oss:
       privateHost: 'your qiniu oss private host'
       publicHost: 'your qiniu oss public host'
